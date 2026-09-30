@@ -1,9 +1,9 @@
-<p align="center"><img src="https://datagrit.github.io/favicon.png" width="96" alt="datagrit logo"></p>
+<p align="center"><img src="https://getdatagrit.github.io/favicon.png" width="96" alt="datagrit logo"></p>
 
 <h1 align="center">datagrit</h1>
 <p align="center"><b>Clean public data, one API call away.</b><br>Ready-to-run <a href="https://apify.com/datagrit">Apify Actors</a> for tenders, company registers and job postings with salaries.</p>
 
-<p align="center"><a href="https://datagrit.github.io/">Website</a> · <a href="https://apify.com/datagrit">Apify Store</a> · <a href="https://dev.to/datagrit">DEV</a></p>
+<p align="center"><a href="https://getdatagrit.github.io/">Website</a> · <a href="https://apify.com/datagrit">Apify Store</a> · <a href="https://dev.to/datagrit">DEV</a></p>
 
 ## Actors
 
