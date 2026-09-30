@@ -16,7 +16,7 @@
 ## Principles
 
 - **Truthful output:** documented flat records, empty values instead of guesses, coverage counts in every run status.
-- **Fair billing:** pay per result, no charge for duplicates or empty runs, first results of every run free.
+- **Fair billing:** pay per result, no charge for duplicates, empty results or status rows.
 - **Loud failures:** when a source changes, the run fails instead of quietly returning nothing.
 - **Public sources only:** no logins, polite request rates.
 
