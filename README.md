@@ -7,7 +7,11 @@
 
 ## Actors
 
-The first Actors are being published on Apify Store.
+| Actor | What you get | |
+|---|---|---|
+| [French Company Finder - Sirene Financials](https://getdatagrit.github.io/french-company-finder/) | French company lead lists from Sirene screened by net result and revenue, with net margin, size, matching establishment and optional directors. | [Run on Apify](https://apify.com/datagrit/french-company-finder) |
+| [Ashby Salary Scraper - Startup Job Pay Ranges](https://getdatagrit.github.io/ashby-salary-scraper/) | Ashby job postings with normalized annual salary ranges, equity flags and new-since-last-run detection. | [Run on Apify](https://apify.com/datagrit/ashby-salary-scraper) |
+| [Greenhouse Salary Scraper - Job Pay Ranges](https://getdatagrit.github.io/greenhouse-salary-scraper/) | Greenhouse job postings with published pay ranges by zone, annualised pay, filters and new-since-last-run detection. | [Run on Apify](https://apify.com/datagrit/greenhouse-salary-scraper) |
 
 ## Principles
 
