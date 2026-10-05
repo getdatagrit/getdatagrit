@@ -28,11 +28,13 @@
 | [Substack Newsletter Sponsorship Prospect Finder](https://getdatagrit.github.io/substack-sponsor-prospector/) | Substack publications ranked for sponsorship: subscriber count, paid-tier size, plan prices, posting cadence and engagement per 1,000 subscribers. | [Run on Apify](https://apify.com/datagrit/substack-sponsor-prospector) |
 | [TCGplayer Price Trends & Sales Velocity Tracker](https://getdatagrit.github.io/tcgplayer-price-trend-tracker/) | TCGplayer card and sealed product prices with 30 and 90 day price change, sales velocity and days of supply per printing. | [Run on Apify](https://apify.com/datagrit/tcgplayer-price-trend-tracker) |
 | [Tennis Stats Scraper - ATP & WTA Scores, Rankings](https://getdatagrit.github.io/tennis-stats-scraper/) | ATP and WTA tennis match results with set and tiebreak scores, seeds, rankings and player profiles for any date range. | [Run on Apify](https://apify.com/datagrit/tennis-stats-scraper) |
+| [TikTok Top Ads Monitor: New Ads by Industry](https://getdatagrit.github.io/tiktok-top-ads-monitor/) | Daily monitor of TikTok Creative Center Top Ads: new ads per country, industry and objective with CTR, likes, landing page and video links, no login. | [Run on Apify](https://apify.com/datagrit/tiktok-top-ads-monitor) |
 | [Website Tech Stack Lookup - Technology Detector](https://getdatagrit.github.io/website-tech-stack-lookup/) | Detect the technology stack of any list of domains: CMS, ecommerce, analytics, CDN, frameworks with versions, plus mail provider, SPF and DMARC. | [Run on Apify](https://apify.com/datagrit/website-tech-stack-lookup) |
 | [YouTube Transcript Scraper - Channels & Playlists](https://getdatagrit.github.io/youtube-channel-playlist-transcripts/) | Bulk YouTube transcripts from videos, whole channels and playlists: publish-date window, language priority with fallback, uploaded vs auto captions, video metadata and only-new-since-last-run. | [Run on Apify](https://apify.com/datagrit/youtube-channel-playlist-transcripts) |
 
 ## Guides
 
+- [How to track new TikTok Top Ads by industry and country with Python](https://getdatagrit.github.io/guides/tiktok-top-ads-monitor/)
 - [How to scrape salary ranges from Ashby job boards with Python](https://getdatagrit.github.io/guides/ashby-salary-scraper/)
 - [How to scrape jobs from Greenhouse, Lever, Workday and 5 more ATS at once](https://getdatagrit.github.io/guides/career-site-jobs-aggregator/)
 - [How to search French companies by profit and revenue with the Sirene API](https://getdatagrit.github.io/guides/french-company-finder/)
