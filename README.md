@@ -31,6 +31,17 @@
 | [Website Tech Stack Lookup - Technology Detector](https://getdatagrit.github.io/website-tech-stack-lookup/) | Detect the technology stack of any list of domains: CMS, ecommerce, analytics, CDN, frameworks with versions, plus mail provider, SPF and DMARC. | [Run on Apify](https://apify.com/datagrit/website-tech-stack-lookup) |
 | [YouTube Transcript Scraper - Channels & Playlists](https://getdatagrit.github.io/youtube-channel-playlist-transcripts/) | Bulk YouTube transcripts from videos, whole channels and playlists: publish-date window, language priority with fallback, uploaded vs auto captions, video metadata and only-new-since-last-run. | [Run on Apify](https://apify.com/datagrit/youtube-channel-playlist-transcripts) |
 
+## Guides
+
+- [How to scrape salary ranges from Ashby job boards with Python](https://getdatagrit.github.io/guides/ashby-salary-scraper/)
+- [How to scrape jobs from Greenhouse, Lever, Workday and 5 more ATS at once](https://getdatagrit.github.io/guides/career-site-jobs-aggregator/)
+- [How to search French companies by profit and revenue with the Sirene API](https://getdatagrit.github.io/guides/french-company-finder/)
+- [How to get salary ranges from Greenhouse job boards by pay zone](https://getdatagrit.github.io/guides/greenhouse-salary-scraper/)
+- [How to list Kalshi markets that settle in the next 24 hours with Python](https://getdatagrit.github.io/guides/kalshi-settlement-calendar/)
+- [How to track TCGplayer price changes and sales velocity with Python](https://getdatagrit.github.io/guides/tcgplayer-price-trend-tracker/)
+- [How to find EU public contracts that expire in the next 12 months](https://getdatagrit.github.io/guides/ted-contract-expiry-radar/)
+- [How to detect the tech stack and email provider of a list of websites](https://getdatagrit.github.io/guides/website-tech-stack-lookup/)
+
 ## Principles
 
 - **Truthful output:** documented flat records, empty values instead of guesses, coverage counts in every run status.
