@@ -20,6 +20,7 @@
 | [Greenhouse Salary Scraper - Job Pay Ranges](https://getdatagrit.github.io/greenhouse-salary-scraper/) | Greenhouse job postings with published pay ranges by zone, annualised pay, filters and new-since-last-run detection. | [Run on Apify](https://apify.com/datagrit/greenhouse-salary-scraper) |
 | [Hacker News Who Is Hiring: Jobs & Hiring History](https://getdatagrit.github.io/hacker-news-hiring-history/) | Turn Hacker News Who is hiring threads into job rows with salary, stack, work mode and visa, plus how many months each company has been hiring. | [Run on Apify](https://apify.com/datagrit/hacker-news-hiring-history) |
 | [App Release Review Impact: Rating by Version](https://getdatagrit.github.io/app-release-review-impact/) | Groups App Store and Google Play reviews by app version and shows how each release changed the rating, with significance flags and the complaints that are new in that version. | [Run on Apify](https://apify.com/datagrit/app-release-review-impact) |
+| [Bilibili Anime Catalog, Rankings & Calendar](https://getdatagrit.github.io/bilibili-anime-series-tracker/) | Bilibili anime, Chinese animation, film, documentary and TV series: filterable catalog, Top 100 rankings, release calendar and season details with ratings and follower counts. | [Run on Apify](https://apify.com/datagrit/bilibili-anime-series-tracker) |
 | [Bluesky Community Finder: Starter Packs & Feeds](https://getdatagrit.github.io/bluesky-community-finder/) | Find Bluesky starter packs, custom feeds and curated lists by topic, with join counts, feed likes and full member lists with follower counts. | [Run on Apify](https://apify.com/datagrit/bluesky-community-finder) |
 | [Domain WHOIS RDAP Lookup - DNS, MX & Expiry](https://getdatagrit.github.io/domain-whois-rdap-lookup/) | Bulk domain lookup: official RDAP (WHOIS) registration, expiry and availability plus DNS, mail provider, SPF/DMARC and hosting ASN, with expiry and registrar filters. | [Run on Apify](https://apify.com/datagrit/domain-whois-rdap-lookup) |
 | [Football Contract Expiry Radar - Transfermarkt](https://getdatagrit.github.io/football-contract-expiry-radar/) | Football players whose contracts end soon, per league and expiry window, with market value, trend, agent and extension options from Transfermarkt end-of-contract lists. | [Run on Apify](https://apify.com/datagrit/football-contract-expiry-radar) |
@@ -35,6 +36,7 @@
 
 ## Guides
 
+- [How to track Bilibili anime rankings, follower counts and release dates with Python](https://getdatagrit.github.io/guides/bilibili-anime-series-tracker/)
 - [How to track new TikTok Top Ads by industry and country with Python](https://getdatagrit.github.io/guides/tiktok-top-ads-monitor/)
 - [How to scrape salary ranges from Ashby job boards with Python](https://getdatagrit.github.io/guides/ashby-salary-scraper/)
 - [How to scrape jobs from Greenhouse, Lever, Workday and 5 more ATS at once](https://getdatagrit.github.io/guides/career-site-jobs-aggregator/)
