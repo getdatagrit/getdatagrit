@@ -27,6 +27,7 @@
 | [Google News Monitor - Full Text & Real URLs](https://getdatagrit.github.io/google-news-rss-monitor/) | Monitor Google News for keywords, site: queries and topics in any country; decoded publisher URLs, optional full text, only-new mode. | [Run on Apify](https://apify.com/datagrit/google-news-rss-monitor) |
 | [Kalshi Settlement Calendar & Order Book Depth](https://getdatagrit.github.io/kalshi-settlement-calendar/) | Kalshi markets ranked by when they settle, with the order book depth, spread and settlement source of each one. | [Run on Apify](https://apify.com/datagrit/kalshi-settlement-calendar) |
 | [Polymarket Liquidity Rewards & Book Depth](https://getdatagrit.github.io/polymarket-reward-yield-screener/) | Polymarket markets that pay liquidity rewards, joined with the live order book: reward pool, qualifying depth and estimated payout per market. | [Run on Apify](https://apify.com/datagrit/polymarket-reward-yield-screener) |
+| [Product Hunt Launch Pricing & Website Intel](https://getdatagrit.github.io/product-hunt-launch-pricing-intel/) | Top Product Hunt launches with the product's resolved website, live pricing page, plan tiers and lowest paid price. | [Run on Apify](https://apify.com/datagrit/product-hunt-launch-pricing-intel) |
 | [Substack Newsletter Sponsorship Prospect Finder](https://getdatagrit.github.io/substack-sponsor-prospector/) | Substack publications ranked for sponsorship: subscriber count, paid-tier size, plan prices, posting cadence and engagement per 1,000 subscribers. | [Run on Apify](https://apify.com/datagrit/substack-sponsor-prospector) |
 | [TCGplayer Price Trends & Sales Velocity Tracker](https://getdatagrit.github.io/tcgplayer-price-trend-tracker/) | TCGplayer card and sealed product prices with 30 and 90 day price change, sales velocity and days of supply per printing. | [Run on Apify](https://apify.com/datagrit/tcgplayer-price-trend-tracker) |
 | [Tennis Stats Scraper - ATP & WTA Scores, Rankings](https://getdatagrit.github.io/tennis-stats-scraper/) | ATP and WTA tennis match results with set and tiebreak scores, seeds, rankings and player profiles for any date range. | [Run on Apify](https://apify.com/datagrit/tennis-stats-scraper) |
@@ -36,6 +37,7 @@
 
 ## Guides
 
+- [How to track Product Hunt launches and what each product charges](https://getdatagrit.github.io/guides/product-hunt-launch-pricing-intel/)
 - [How to track Bilibili anime rankings, follower counts and release dates with Python](https://getdatagrit.github.io/guides/bilibili-anime-series-tracker/)
 - [How to track new TikTok Top Ads by industry and country with Python](https://getdatagrit.github.io/guides/tiktok-top-ads-monitor/)
 - [How to scrape salary ranges from Ashby job boards with Python](https://getdatagrit.github.io/guides/ashby-salary-scraper/)
