@@ -24,6 +24,7 @@
 | [Domain WHOIS RDAP Lookup - DNS, MX & Expiry](https://getdatagrit.github.io/domain-whois-rdap-lookup/) | Bulk domain lookup: official RDAP (WHOIS) registration, expiry and availability plus DNS, mail provider, SPF/DMARC and hosting ASN, with expiry and registrar filters. | [Run on Apify](https://apify.com/datagrit/domain-whois-rdap-lookup) |
 | [Football Contract Expiry Radar - Transfermarkt](https://getdatagrit.github.io/football-contract-expiry-radar/) | Football players whose contracts end soon, per league and expiry window, with market value, trend, agent and extension options from Transfermarkt end-of-contract lists. | [Run on Apify](https://apify.com/datagrit/football-contract-expiry-radar) |
 | [Google News Monitor - Full Text & Real URLs](https://getdatagrit.github.io/google-news-rss-monitor/) | Monitor Google News for keywords, site: queries and topics in any country; decoded publisher URLs, optional full text, only-new mode. | [Run on Apify](https://apify.com/datagrit/google-news-rss-monitor) |
+| [Google Trends Keyword Ranker and Compare Tool](https://getdatagrit.github.io/google-trends-keyword-ranker/) | Rank up to 100 keywords on one comparable Google Trends scale, with interest by region and related queries, for many locations in one run. | [Run on Apify](https://apify.com/datagrit/google-trends-keyword-ranker) |
 | [Kalshi Settlement Calendar & Order Book Depth](https://getdatagrit.github.io/kalshi-settlement-calendar/) | Kalshi markets ranked by when they settle, with the order book depth, spread and settlement source of each one. | [Run on Apify](https://apify.com/datagrit/kalshi-settlement-calendar) |
 | [Medium Publication Finder: Subscribers & Activity](https://getdatagrit.github.io/medium-publication-finder/) | Find Medium publications by keyword and score each one: subscribers, posting cadence, claps per post, paywalled share and top authors. | [Run on Apify](https://apify.com/datagrit/medium-publication-finder) |
 | [Polymarket Liquidity Rewards & Book Depth](https://getdatagrit.github.io/polymarket-reward-yield-screener/) | Polymarket markets that pay liquidity rewards, joined with the live order book: reward pool, qualifying depth and estimated payout per market. | [Run on Apify](https://apify.com/datagrit/polymarket-reward-yield-screener) |
@@ -37,6 +38,7 @@
 
 ## Guides
 
+- [How to compare more than 5 keywords on Google Trends with one scale](https://getdatagrit.github.io/guides/google-trends-keyword-ranker/)
 - [How to find active Medium publications and rank them by engagement](https://getdatagrit.github.io/guides/medium-publication-finder/)
 - [How to track Product Hunt launches and what each product charges](https://getdatagrit.github.io/guides/product-hunt-launch-pricing-intel/)
 - [How to track Bilibili anime rankings, follower counts and release dates with Python](https://getdatagrit.github.io/guides/bilibili-anime-series-tracker/)
