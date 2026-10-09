@@ -23,6 +23,7 @@
 | [Bluesky Community Finder: Starter Packs & Feeds](https://getdatagrit.github.io/bluesky-community-finder/) | Find Bluesky starter packs, custom feeds and curated lists by topic, with join counts, feed likes and full member lists with follower counts. | [Run on Apify](https://apify.com/datagrit/bluesky-community-finder) |
 | [Domain WHOIS RDAP Lookup - DNS, MX & Expiry](https://getdatagrit.github.io/domain-whois-rdap-lookup/) | Bulk domain lookup: official RDAP (WHOIS) registration, expiry and availability plus DNS, mail provider, SPF/DMARC and hosting ASN, with expiry and registrar filters. | [Run on Apify](https://apify.com/datagrit/domain-whois-rdap-lookup) |
 | [Football Contract Expiry Radar - Transfermarkt](https://getdatagrit.github.io/football-contract-expiry-radar/) | Football players whose contracts end soon, per league and expiry window, with market value, trend, agent and extension options from Transfermarkt end-of-contract lists. | [Run on Apify](https://apify.com/datagrit/football-contract-expiry-radar) |
+| [Google AI Overview Citation & Brand Tracker](https://getdatagrit.github.io/google-ai-overview-citation-tracker/) | Track which sources and domains Google AI Overview cites for each search query, with brand mentions and organic rank in one row. | [Run on Apify](https://apify.com/datagrit/google-ai-overview-citation-tracker) |
 | [Google News Monitor - Full Text & Real URLs](https://getdatagrit.github.io/google-news-rss-monitor/) | Monitor Google News for keywords, site: queries and topics in any country; decoded publisher URLs, optional full text, only-new mode. | [Run on Apify](https://apify.com/datagrit/google-news-rss-monitor) |
 | [Google Trends Keyword Ranker and Compare Tool](https://getdatagrit.github.io/google-trends-keyword-ranker/) | Rank up to 100 keywords on one comparable Google Trends scale, with interest by region and related queries, for many locations in one run. | [Run on Apify](https://apify.com/datagrit/google-trends-keyword-ranker) |
 | [Kalshi Settlement Calendar & Order Book Depth](https://getdatagrit.github.io/kalshi-settlement-calendar/) | Kalshi markets ranked by when they settle, with the order book depth, spread and settlement source of each one. | [Run on Apify](https://apify.com/datagrit/kalshi-settlement-calendar) |
@@ -38,6 +39,7 @@
 
 ## Guides
 
+- [How to track which sources Google AI Overview cites for your queries](https://getdatagrit.github.io/guides/google-ai-overview-citation-tracker/)
 - [How to compare more than 5 keywords on Google Trends with one scale](https://getdatagrit.github.io/guides/google-trends-keyword-ranker/)
 - [How to find active Medium publications and rank them by engagement](https://getdatagrit.github.io/guides/medium-publication-finder/)
 - [How to track Product Hunt launches and what each product charges](https://getdatagrit.github.io/guides/product-hunt-launch-pricing-intel/)
